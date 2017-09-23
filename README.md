@@ -12,12 +12,12 @@ http://www.sciencedirect.com/science/article/pii/S092523121631400X
 | Football  | 115  | 613  | 10.6  |
 | Pol.books  | 105  | 441  | 8.4  |
 | Jazz  | 198  | 2742  | 27.7  |
-| Email  | 1133  | 5254  | 9.6  |
+| Email  | 1133  | 5451  | 9.6  |
 | Netscience  | 1461  | 2742  | 3.8  |
-| Power  | 4941  | 6593  | 2.7  |
+| Power  | 4941  | 6594  | 2.7  |
 | Pol.blogs  | 1224  | 19022  | 27.3  |
 
-When counting the number of nodes, we exclude those nodes with no linked edge.
+When counting the number of nodes, we exclude those nodes with no linked edge. Please see our edgelists of all datasets for more details.
 
 ## Reference
 Rodriguez A，Laio A. 2014. Clustering by fast search and find of density peaks.  Science. 344, 1492.
