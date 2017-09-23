@@ -2,7 +2,7 @@
 Source code of our paper: An overlapping community detection algorithm based on density peaks
 http://www.sciencedirect.com/science/article/pii/S092523121631400X
 
-# The real world dataset we use
+## The real world dataset we use
 
 | Dataset  | # Nodes | # Edges | average degree |
 | ------------- | ------------- | ------------- | ------------- |
@@ -19,7 +19,7 @@ http://www.sciencedirect.com/science/article/pii/S092523121631400X
 
 When counting the number of nodes, we exclude those nodes with no linked edge.
 
-# Reference
+## Reference
 Rodriguez A，Laio A. 2014. Clustering by fast search and find of density peaks.  Science. 344, 1492.
 
 Authors' matlab code on http://people.sissa.it/~laio/Research/Res_clustering.php
