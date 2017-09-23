@@ -8,6 +8,9 @@ The real world dataset we use:
 | Dolphin  | 62  | 159  | 5.1  |
 | Lesmis  | 77  | 254  | 6.6  |
 | Football  | 115  | 613  | 10.6  |
+
+
+
 | Pol.books  | 105  | 441  | 8.4  |
 | Jazz  | 198  | 2742  | 27.7  |
 | Email  | 1133  | 5254  | 9.6  |
