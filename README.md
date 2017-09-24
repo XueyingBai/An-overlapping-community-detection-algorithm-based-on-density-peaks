@@ -3,7 +3,7 @@ Source code of our paper: An overlapping community detection algorithm based on 
 http://www.sciencedirect.com/science/article/pii/S092523121631400X
 
 ## Manual
-In main directory, run "cluster_dp_overlap_rd.m", follow the instructions. 
+In OCDDP directory, run "cluster_dp_overlap_rd.m", follow the instructions. 
 
 The EQ evaluation function is in file "calculateEQ.m". A result storage function is also in this file.
 
