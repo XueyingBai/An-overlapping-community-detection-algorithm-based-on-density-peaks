@@ -15,3 +15,6 @@
 | Pol.blogs  | 1224  | 19025  | 27.3  |
 
 When counting the number of nodes, we exclude those nodes with no linked edge. 
+
+## Reference
+Please see the paper for a whole list of references.
